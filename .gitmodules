@@ -1,0 +1,12 @@
+[submodule "Queue"]
+	path = Queue
+	url = https://github.com/losttech/NQueue.git
+[submodule "Clouds/AWS"]
+	path = Clouds/AWS
+	url = https://github.com/losttech/NStorage.AWS.git
+[submodule "Clouds/Azure"]
+	path = Clouds/Azure
+	url = https://github.com/losttech/NStorage.Azure.git
+[submodule "KeyValue"]
+	path = KeyValue
+	url = https://github.com/losttech/NKeyValue.git
